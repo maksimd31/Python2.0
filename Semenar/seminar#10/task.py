@@ -26,6 +26,7 @@ def my_func3(x, y, *, a, b, c):
     print(f'{b = }')
     print(f'{c = }')
 
+
 # f = '15'
 # my_func3(5, f, b=4, c=f, a=10)
 
